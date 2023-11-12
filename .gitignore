@@ -1,0 +1,9 @@
+.project
+.settings/
+debug/
+*.sublime-project
+salesforce.schema
+.idea/
+.sfdx/
+.sf/
+IlluminatedCloud/*
